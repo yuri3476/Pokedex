@@ -1,4 +1,5 @@
 * Reprodução da Pokédex utilizando HTML, CSS e JS
+* Realizada Recursividade 
 * API utilizada: https://pokeapi.co/
 
 
